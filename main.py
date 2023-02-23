@@ -144,4 +144,4 @@ async def country(ctx, *, name):
     await ctx.send(embed=c_info)
 
 
-client.run("ODMzODM1NDM0OTQ5NzM4NTI3.YH4Hww.utjnhJ5hdZCy-2UJHgnFaZYXlXM")
+# client.run("")
